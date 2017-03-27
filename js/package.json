@@ -1,0 +1,21 @@
+{
+  "name": "super-source-hello-world",
+  "version": "1.0.0",
+  "description": "This project demonstrates a project that uses Super Source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "super",
+    "source",
+    "supso",
+    "hello",
+    "world"
+  ],
+  "author": "Super Source",
+  "license": "MIT",
+  "dependencies": {
+    "super-source": "^0.8.1"
+  }
+}
