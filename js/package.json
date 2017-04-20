@@ -16,6 +16,6 @@
   "author": "Super Source",
   "license": "MIT",
   "dependencies": {
-    "super-source": "^0.8.1"
+    "super-source": "^0.10.0"
   }
 }

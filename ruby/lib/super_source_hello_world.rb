@@ -1,5 +1,5 @@
 require 'super_source'
-SuperSource::Project.add('super-source-hello-world', 'z6rz94d3v2fe')
+SuperSource::Project.add('super-source-hello-world', 'z6rz94d3v2fe', level: :error)
 
 Dir[File.dirname(__FILE__) + '/super_source_hello_world/*.rb'].each do |file|
   require file
